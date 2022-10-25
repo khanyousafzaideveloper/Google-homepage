@@ -1,2 +1,4 @@
-# Google-homepage
-made this using Html and css
+# Google homepage
+
+My first web project
+Made this using Html and css.
